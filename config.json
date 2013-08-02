@@ -1,0 +1,10 @@
+{
+    "loginUrl": "https://m.chase.com/siteminder/auth/fcc/login",
+    "profileUrl": "https://m.chase.com/gws/gws/online/secure/profile/authorized/v20120318/list.action",
+    "accountDetailUrl": "https://m.chase.com/gws/gws/online/secure/account/activity/v20110717/list.action",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3",
+        "Referer":"https://m.chase.com/index.html",
+        "Origin":"https://m.chase.com"
+    }
+}
