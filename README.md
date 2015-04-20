@@ -1,3 +1,9 @@
+DEPRECATED: [Banking.js](http://euforic.co/banking.js/) and [Banking.cs](https://github.com/Grummle/Banking.cs) do work with chase so this isn't really needed anymore 
+and trying to keep up with the changes to an internal api is a pita so I'm not planning to do it anymore. 
+I'd also recommend looking at [Plaid](http://plaid.com/) if your looking to get ahold of financial data.
+
+
+
 chase-bank
 ==========
 
